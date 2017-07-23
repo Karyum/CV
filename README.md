@@ -16,4 +16,4 @@ I'm a young full stack developer who likes to get stuff done fast. Just after sc
 A project that was funded by the United Kingdom Isreali Tech Hub (UKITH), A web application to make Arabs startups more accessible for Investors and to enhance interest in the Arab Hi-tech scene.  
 
 # Contact
-mario.saliba98@gmail.com | 
+mario.saliba98@gmail.com
