@@ -3,10 +3,10 @@
 I'm a young full stack developer who likes to get stuff done fast. Just after school i joined a highly-selective sixteen week coding bootcamp called [Founders & Coders](http://www.foundersandcoders.com/), I recently graduated and started mentoring and already working on projects.
 
 # Skills
-**Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL, Tachyons.
-**Testing**:Tape, Istanbul, Supertest, CodeCov.
-**Databases**: PostgreSQL, MongoDB, Mongoose.
-**Frameworks**: Hapi, Express.
+**Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL, Tachyons.                                         
+**Testing**:Tape, Istanbul, Supertest, CodeCov.                                                           
+**Databases**: PostgreSQL, MongoDB, Mongoose.                                                                    
+**Frameworks**: Hapi, Express.                                                                             
 **Other skills**: Git/Github, Heroku, Handlebars, React+Redux, Angular 2, Travis CI.
 
 # Projects
