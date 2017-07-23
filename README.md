@@ -11,7 +11,7 @@ I'm a young full stack developer who likes to get stuff done fast. Just after sc
 
 # Projects
 
-[Arab startups platform](http://arabinnovators.herokuapp.com/)
+### [Arab startups platform](http://arabinnovators.herokuapp.com/)
 
 A project that was funded by the United Kingdom Isreali Tech Hub (UKITH), A web application to make Arabs startups more accessible for Investors and to enhance interest in the Arab Hi-tech scene.  
 
