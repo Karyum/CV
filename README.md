@@ -33,9 +33,9 @@ Nazareth Nuggets is a platform for people to discover new things about Nazareth,
 - AWS S3
 - Tape + linter + Supertest + Istanbul
 
-### [PAS -> Prototype:](https://xd.adobe.com/view/6572db59-ff24-4c55-9db7-3142e15141e5/)
+### [PAS](https://xd.adobe.com/view/6572db59-ff24-4c55-9db7-3142e15141e5/)
 
-Park and Sleep helps tourists navigate unconventional cities like Nazareth. Also this app was built using React library + Redux.
+Park and Sleep helps tourists navigate unconventional cities like Nazareth. Also this app was built using React library + Redux. [Prototype](https://xd.adobe.com/view/6572db59-ff24-4c55-9db7-3142e15141e5/)
 
 - React
 - Express
