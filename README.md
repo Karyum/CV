@@ -7,7 +7,7 @@ I'm a young full stack developer who is looking for an opportunity to gain new s
 **Testing**:Tape, Istanbul, Supertest, CodeCov.                                                           
 **Databases**: PostgreSQL, MongoDB, Mongoose.                                                                    
 **Frameworks**: Hapi, Express.                                                                             
-**Other skills**: Git/Github, Heroku, Handlebars, React+Redux, Angular 2, Travis CI.
+**Other skills**: Git/Github, Gerrit, Heroku, Handlebars, React+Redux, Angular 2, Travis CI.
 
 # Projects
 
