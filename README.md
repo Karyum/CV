@@ -44,7 +44,7 @@ I used the following technologies:
 - MongoDB
 - Webpack + Babel + Axios
 
-## EXPERIENCE
+## EDUCATION
 
  <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
 
