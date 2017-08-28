@@ -7,7 +7,7 @@ I'm an early-career full stack developer who is looking for opportunities to gai
 **Testing**: Tape, Istanbul, Supertest, CodeCov                                                           
 **Databases**: PostgreSQL, MongoDB, Mongoose                                                                    
 **Frameworks**: Hapi, Express                                                                             
-**Other skills**: Git/Github, Gerrit, Heroku, Handlebars, React+Redux, Angular 2, Travis CI
+**Other skills**: Git/Github, Gerrit, Heroku, Handlebars, React+Redux, Angular 2, Travis CI, Webpack, Babel
 
 ## Projects
 
