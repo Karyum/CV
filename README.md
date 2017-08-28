@@ -3,11 +3,12 @@
 I'm an early-career full stack developer who is looking for opportunities to gain new skills by working on challenging freelance projects. I recently graduated from [Founders & Coders Nazareth](http://www.foundersandcoders.com/), a highly selective sixteen week coding bootcamp, and am currently mentoring and working on freelance projects. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
 ## Skills
-**Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL, Tachyons                                         
-**Testing**: Tape, Istanbul, Supertest, CodeCov                                                           
-**Databases**: PostgreSQL, MongoDB, Mongoose                                                                    
-**Frameworks**: Hapi, Express                                                                             
-**Other skills**: Git/Github, Gerrit, Heroku, Handlebars, React+Redux, Angular 2, Travis CI, Webpack, Babel
+**Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL, Tachyons.                                         
+**Testing**: Tape, Istanbul, Supertest, CodeCov.                                                      
+**Databases**: PostgreSQL, MongoDB, Mongoose.                                                                  
+**Frameworks**: Hapi, Express.
+**Development Tools**: Git/Github, Gerrit, Travis CI, Webpack.
+**Other skills**: Heroku, Handlebars, React+Redux, Angular 2, Babel.
 
 ## Projects
 
