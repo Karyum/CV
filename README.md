@@ -6,8 +6,8 @@ I'm an early-career full stack developer who is looking for opportunities to gai
 **Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL, Tachyons.                                         
 **Testing**: Tape, Istanbul, Supertest, CodeCov.                                                      
 **Databases**: PostgreSQL, MongoDB, Mongoose.                                                                  
-**Frameworks**: Hapi, Express.
-**Development Tools**: Git/Github, Gerrit, Travis CI, Webpack.
+**Frameworks**: Hapi, Express.                                                                                
+**Development Tools**: Git/Github, Gerrit, Travis CI, Webpack.                                                
 **Other skills**: Heroku, Handlebars, React+Redux, Angular 2, Babel.
 
 ## Projects
