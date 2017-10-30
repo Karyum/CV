@@ -12,11 +12,25 @@ I'm an early-career full stack developer who is looking for opportunities to gai
 
 ## Projects
 
+### [Nazareth events](https://nazareth-events.herokuapp.com/)
+
+An easy to use app designed to help users find events happening in Nazareth, the app has two types of users:
+ - A person looking for an event
+ - A enue that hosts events
+ 
+Technologies used:
+- HTML5 + css
+- Javascript
+- Express
+- Handlebars
+- Tape + Supertest + Istanbul
+
+
 ### [Arab startups platform](http://arabinnovators.herokuapp.com/)
 
 Arab Innovators, funded by the UK Israel Tech Hub, is a a web application that aims to promote the Arab hi-tech scene and make Arabs startups more accessible to investors.
 
-I used the following technologies:
+Technologies used:
 - HTML5 + Tachyons
 - Javascript
 - Express
