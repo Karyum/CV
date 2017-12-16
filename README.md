@@ -3,12 +3,12 @@
 I'm an early-career full stack developer who is looking for opportunities to gain new skills by working on challenging freelance projects. I recently graduated from [Founders & Coders Nazareth](http://www.foundersandcoders.com/), a highly selective sixteen week coding bootcamp, and am currently mentoring and working on freelance projects. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
 ## Skills
-**Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL, Tachyons.                                         
+**Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL.                                         
 **Testing**: Tape, Istanbul, Supertest, CodeCov.                                                      
 **Databases**: PostgreSQL, MongoDB, Mongoose.                                                                  
 **Frameworks**: Hapi, Express.                                                                                
-**Development Tools**: Git/Github, Gerrit, Travis CI, Webpack.                                                
-**Other skills**: Heroku, Handlebars, React+Redux, Angular 2, Babel.
+**Development Tools**: Git/Github, Travis CI, Webpack.                                                
+**Other skills**: Heroku, Handlebars, React+Redux, Babel.
 
 ## Projects
 
@@ -16,14 +16,14 @@ I'm an early-career full stack developer who is looking for opportunities to gai
 
 An easy to use app designed to help users find events happening in Nazareth, the app has two types of users:
  - A person looking for an event
- - A enue that hosts events
+ - A venue that hosts events
  
 Technologies used:
 - HTML5 + css
 - Javascript
 - Express
-- Handlebars
-- Tape + Supertest + Istanbul
+- Handlebars 
+- Tape + Supertest + Istanbul + Nock
 
 
 ### [Arab startups platform](http://arabinnovators.herokuapp.com/)
@@ -65,7 +65,7 @@ I used the following technologies:
 
 
 ### Student and mentor
-*Feb. 2017 - June. 2017*
+*Feb. 2017 - Dec. 2017*
 
 #### 16-Week Intensive Web Development Course
 
