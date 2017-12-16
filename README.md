@@ -28,7 +28,7 @@ Technologies used:
 
 ### [Arab startups platform](http://arabinnovators.herokuapp.com/)
 
-Arab Innovators, funded by the UK Israel Tech Hub, is a a web application that aims to promote the Arab hi-tech scene and make Arabs startups more accessible to investors.
+Arab Innovators, funded by the UK Israel Tech Hub, is a web application that aims to promote the Arab hi-tech scene and make Arabs startups more accessible to investors.
 
 Technologies used:
 - HTML5 + Tachyons
