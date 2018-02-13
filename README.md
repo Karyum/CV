@@ -75,5 +75,5 @@ Technologies used:
 
 ## Contact
 - Email: mario.saliba98@gmail.com.
-- LinkedIn: linkedin.com/in/mario-s-853802aa/
+- LinkedIn: https://www.linkedin.com/in/mario-s-853802aa/
 
