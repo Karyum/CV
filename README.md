@@ -74,6 +74,6 @@ Technologies used:
 * currently help teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring at _Coding for Everyone_ meetups. 
 
 ## Contact
-Email: mario.saliba98@gmail.com
-LinkedIn: linkedin.com/in/mario-s-853802aa/
+- Email: mario.saliba98@gmail.com.
+- LinkedIn: linkedin.com/in/mario-s-853802aa/
 
