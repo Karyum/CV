@@ -6,9 +6,9 @@ I'm an early-career full stack developer who is looking for opportunities to gai
 **Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL.                                         
 **Testing**: Tape, Istanbul, Supertest, CodeCov, Travis CI, Jest.                                                      
 **Databases**: PostgreSQL, MongoDB, Mongoose.                                                                  
-**Backend frameworks**: Hapi, Express.
-**Frontend frameworks/libraries**: React, Vue.
-**Tools**: Git/Github, Webpack, ESLint, Babel.                                                
+**Backend frameworks**: Hapi, Express.                                                                        
+**Frontend frameworks/libraries**: React, Vue.                                                      
+**Tools**: Git/Github, Webpack, ESLint, Babel.                                                 
 **Other skills**: Heroku, Handlebars.
 
 ## Projects
