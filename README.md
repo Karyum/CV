@@ -1,13 +1,13 @@
 # CV - Mario Saliba
 
-An early-career full stack developer who is looking for opportunities to gain new skills by working on challenging freelance projects. recently graduated from [Founders & Coders Nazareth](http://www.foundersandcoders.com/), a highly selective sixteen week coding bootcamp, and currently mentoring and working on freelance projects. passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
+An early-career full stack developer who is looking for opportunities to gain new skills by working on challenging freelance projects. graduated from [Founders & Coders Nazareth](http://www.foundersandcoders.com/), a highly selective sixteen week coding bootcamp, and currently mentoring and working on freelance projects. passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
 ## Skills
 **Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL.                                         
 **Testing**: Tape, Istanbul, Supertest, CodeCov, Travis CI, Jest.                                                      
 **Databases**: PostgreSQL, MongoDB, Mongoose.                                                                  
 **Backend frameworks**: Hapi, Express.                                                                        
-**Frontend frameworks/libraries**: React, Vue.                                                      
+**Frontend frameworks/libraries**: React, Vue, Elm.                                                      
 **Tools**: Git/Github, Webpack, ESLint, Babel.                                                 
 **Other skills**: Heroku, Handlebars.
 
@@ -26,6 +26,17 @@ Technologies used:
 - Handlebars 
 - Tape + Supertest + Istanbul + Nock
 
+### [OTP Data entry](https://github.com/foundersandcoders/OTP-Data-Entry) and [OTP API](https://github.com/foundersandcoders/open-tourism-platform)
+
+Open tourism platform ( aka OTP ) was developed with the Nazareth Cultural and Tourism Association. An open backend to help support and facilitate the creation of apps and websites aimed at developing tourism in Nazareth.
+
+Technologies used:
+- HTML5 + css
+- Javascript
+- Express
+- Handlebars 
+- Mongo + Mongoose
+- Tape + Supertest + Istanbul
 
 ### [Arab startups platform](http://arabinnovators.herokuapp.com/)
 
@@ -76,4 +87,5 @@ Technologies used:
 ## Contact
 - Email: mario.saliba98@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/mario-s-853802aa/
+- Github: https://github.com/karyum
 
