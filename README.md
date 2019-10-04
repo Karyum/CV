@@ -54,19 +54,6 @@ Technologies used:
 * Mongodb + Mongoose
 * Tape + Supertest + Istanbul
 
-### [Nazareth Nuggets](https://nazareth-nuggets.herokuapp.com/)
-
-Nazareth Nuggets is a platform for people to discover new things about Nazareth, and to contribute information for other users.
-
-Technologies used:
-
-* HTML5 + CSS3
-* Javascript
-* Express
-* PostgreSQL
-* AWS S3
-* Tape + linter + Supertest + Istanbul
-
 ### [PAS](https://xd.adobe.com/view/6572db59-ff24-4c55-9db7-3142e15141e5/)
 
 Park and Sleep, which helps tourists navigate unconventional cities (like Nazareth), was built using React library + Redux.
@@ -93,7 +80,7 @@ Web app for informing young people of a variety of careers and paths!
 
 ### Student and mentor
 
-_Feb. 2017 - Current_
+_Feb. 2017 - 
 
 #### 16-Week Intensive Web Development Course
 
